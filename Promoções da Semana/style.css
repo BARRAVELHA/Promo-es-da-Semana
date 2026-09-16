@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #ffffff;
+    background: #c5c5c5;
 }
 
 header {
@@ -15,18 +15,18 @@ header {
 }
 
 header h1 {
-    color: #14532d;
+    color: #fbff15;
     font-size: 42px;
 }
 
 header h2 {
-    color: #1a9e4b;
+    color: #000000;
     font-size: 21px;
     margin-top: 8px;
 }
 
 header p {
-    color: #777777;
+    color: #000000;
     font-size: 15px;
     margin-top: 6px;
 }
@@ -67,7 +67,7 @@ header p {
 }
 
 .estrelas {
-    color: #f7c948;
+    color: #e5ff00;
     letter-spacing: 1px;
 }
 
@@ -95,14 +95,15 @@ header p {
 }
 
 button {
-    display: flex;
+
+ display: flex;
     align-items: center;
     justify-content: center;
     gap: 8px;
     width: 100%;
     padding: 11px 0;
-    background: #ffffff;
-    color: #178a41;
+    background: #000000;
+    color: #ffffff;
     border: none;
     border-radius: 8px;
     font-size: 14px;
